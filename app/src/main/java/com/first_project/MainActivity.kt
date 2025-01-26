@@ -71,7 +71,7 @@ fun Main (){
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 Greeting(
-                    name = "Android",
+                    name = "World",
                     modifier = Modifier.padding(padding)
                 )
             }
